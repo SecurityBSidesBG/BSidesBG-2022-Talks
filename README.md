@@ -1,5 +1,5 @@
 # BSidesBG-2022-Talks
-Presentations from the first BSides Sofia 2022
+[Presentations from the first BSides Sofia 2022](https://bsides.bg)
 
 
 [Application security into DevOps](DevSecOps%20-%20embedding%20security%20into%20pipelines.pdf) - [Video](https://www.youtube.com/watch?v=5pWOIOzFYR0) - [Svetlomir Balevski](https://www.linkedin.com/in/svetlomir-balevski-a366767/)
